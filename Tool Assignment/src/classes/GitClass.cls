@@ -3,6 +3,6 @@ public class GitClass {
     {
  System.debug('GitClass');
         System.debug('Git Pull Check');
-        System.debug('Git Merger Check');
+        System.debug('Git Merge Check');
 }
 }
